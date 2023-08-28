@@ -4,8 +4,9 @@ In this project, I recreated the homepage of Amazon, the well-known e-commerce p
 
 **Tools Used :**
 
-1. HTML: Create the structural foundation of the webpage using HTML, organizing content into headings, paragraphs, divs, and more.
-2. CSS: Apply styles and layout to the HTML elements using CSS. This includes setting colors, fonts, margins, paddings, flex-box and other visual properties.
+1. **HTML:** Create the structural foundation of the webpage using HTML, organizing content into headings, paragraphs, divs, and more.
+2. **CSS:** Apply styles and layout to the HTML elements using CSS. This includes setting colors, fonts, margins, paddings, flex-box and other visual properties.
+   For adding Icons, **font-awesome library** has been used in this project.
 
 **Learned Outcomes**
 1. Gained hands-on experience in HTML and CSS by building a real-world project.
